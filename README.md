@@ -32,10 +32,10 @@ Client {
 */
 ```
 ## Methods: 
->getInfo - Returns a short paragraph containing each value and describing the client.
+> 1. getInfo - Returns a short paragraph containing each value and describing the client.
 >>Parameters - None
 
->missingProp - Returns an array containing all properties of a client that are set to their default values(you did not change them or invalid params were provided)
+> 2. missingProp - Returns an array containing all properties of a client that are set to their default values(you did not change them or invalid params were provided)
 >>Parameters - None
 
 > Example: [Example Client](https://replit.com/@PizzaOvenTacos/pizza-clients-example)
