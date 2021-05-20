@@ -9,7 +9,7 @@ const client = new Clients.Client
     version: 1.0,
     otherInfo: 'This client-sorter is one of my first decent-sized projects.'
   }
-);
+); //because this is class based, you can easily make multiple clients on the same repo.
 console.log(client); /*
 returns: 
 Client {
