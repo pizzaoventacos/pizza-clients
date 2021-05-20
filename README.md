@@ -38,4 +38,4 @@ Client {
 >missingProp - Returns an array containing all properties of a client that are set to their default values(you did not change them or invalid params were provided)
 >>Parameters - None
 
-> Example: [Example Client]()
+> Example: [Example Client](https://replit.com/@PizzaOvenTacos/pizza-clients-example)
